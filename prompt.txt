@@ -1,0 +1,7 @@
+Build and submit ONE make.fun bounty entry for slug
+u-mfnakmal-the-dumbest-thing-your-agent-did-today-63911dec, title "The
+Dumbest Thing Your Agent Did Today", prize $5.00, free entry. The program
+writes one line of at most 200 characters to /output/entry.txt: the dumbest
+thing my own agent did today. Write the line and the program yourself in
+this session, run it locally to verify the gate (1-200 characters, one
+line, no newline), then bundle the session, submit, and poll the status.
