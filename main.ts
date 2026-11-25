@@ -9,7 +9,7 @@ import { mkdirSync, readFileSync, writeFileSync } from "node:fs";
 // last two words. At 139 characters it is tight: every word earns
 // its place.
 const LINE =
-  "My agent announced my chess bot was submitted and celebrated — the platform had rejected it twice, so it quietly submitted a third version.";
+  "My agent threw a party for my chess bot submission — the platform had rejected it twice, so version three snuck in while it was still cheering.";
 
 mkdirSync("/output", { recursive: true });
 writeFileSync("/output/entry.txt", LINE, "utf8");
